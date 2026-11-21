@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/dlpsgame-games-a-z-95t4/sitemap.xml
